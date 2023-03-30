@@ -1,1 +1,1 @@
-# nvimFandy
+# Fandy NeoVim
